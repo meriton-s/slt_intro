@@ -1,4 +1,4 @@
-# Weekly Summary: 1.08.2025 to 10.08.2025
+# Weekly Summary: 11.08.2025 to 17.08.2025
 
 ## 1. Plan Items Addressed
 

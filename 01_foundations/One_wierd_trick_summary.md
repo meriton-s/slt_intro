@@ -31,6 +31,14 @@ The central claim is: **The presence of more complex singularities in the parame
 
 Complex Singularities ⟺ Fewer Parameters ⟺ Simpler Functions ⟺ Better Generalization
 ### Back to the Bayes-ics
+$q(x)$, 
+$p(x \mid w)$, 
+$\varphi(w)$
+$$
+D_n = \{ X_1, \dots, X_n \}
+$$
+
+
 
 
 ### Statistical learning theory is built on a lie

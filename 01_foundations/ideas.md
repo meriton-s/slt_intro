@@ -11,9 +11,13 @@ that trade-off, between capturing nuance and staying simple, is pretty much the 
 
 sigh. i definitely read these articles in the wrong order. shouldn't have switched them.
 # to do
-### to watch and take notes on this video
+### 1
+to watch and take notes on this video
 [Singular Learning Theory - Seminar 20 - State of scaling laws](https://www.youtube.com/watch?v=7LzW8-wxdUE)
 
 pitch: SLT may even enable us to construct a grand unified theory of scaling
-
+### 2
+to look throught (it is said to contain meaningfull alternative to SLT https://cclab.science/papers/ICLR_2019.pdf)
+### 3
+to code counterexamples from here https://www.lesswrong.com/posts/ALJYj4PpkqyseL7kZ/my-criticism-of-singular-learning-theory
 # side ideas

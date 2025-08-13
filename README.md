@@ -10,7 +10,7 @@ This space will contain my notes, code for toy models, exercise solutions, and r
 
 During this fellowship, my development will focus on three main areas:
 
-* **Theory:** To internalize the key mathematical concepts of SLT (such as the Bayesian approach, singular models, RLCT) and to be able to explain them clearly.
+* **Theory:** To internalize the key mathematical concepts of SLT and to be able to explain them clearly.
 * **Practice:** To develop the ability to write code for SLT-related tasks, solve exercises, and replicate the results of existing research.
 * **Research Taste:** To cultivate the skill of formulating meaningful research hypotheses within the agenda of SLT and developmental interpretability.
 

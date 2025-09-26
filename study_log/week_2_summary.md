@@ -14,8 +14,11 @@
 *What was successfully completed? What concepts became clearer? Were there any "aha!" moments?*
 
 - **Insight:** 
+  - people don't know this staff. even what seems obvious to me is not for the most of the people surrounding me. 
 - **Result:** 
-- ...
+  - something something summary https://docs.google.com/document/d/1dZCvzhEW4n1kC05epcAoPrQfesxQ1YZLUn9GboKckog/edit?usp=sharing
+  - made a presentation in Monoid
+  - made 40 minutes speach in AI Safety Serbia community retreat
 
 ## 3. Challenges & Open Questions
 
@@ -23,7 +26,7 @@
 
 - **Question:** 
 - **Challenge:** 
-- ...
+  - bayesian inference is still a challenge 
 
 ## 4. ToDo
 

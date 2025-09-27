@@ -5,15 +5,15 @@ by Jesse Hoogland
 ## TLDR
 
 ## Post structure
-Intro (basic problems and ideas)
-Back to the Bayes-ics
-Statistical learning theory is built on a lie
-Learning is physics with likelihoods
-Why "singular"?
-Phase transitions are singularity manipulations
-Neural networks are freaks of symmetries
-Discussion and limitations
-Where do we go from here?
+* Intro (basic problems and ideas)
+* Back to the Bayes-ics
+* Statistical learning theory is built on a lie
+* Learning is physics with likelihoods
+* Why "singular"?
+* Phase transitions are singularity manipulations
+* Neural networks are freaks of symmetries
+* Discussion and limitations
+* Where do we go from here?
 
 ## Main ideas
 ### Intro (basic problems and ideas)
@@ -37,6 +37,17 @@ $\varphi(w)$
 $$
 D_n = \{ X_1, \dots, X_n \}
 $$
+the true data distribution, q(x)
+
+To understand why neural networks generalize so well, we start with the Bayesian view of learning. 
+
+We begin with a belief (**the prior**), see evidence (**the data)**, and update your belief (**the posterior**).
+
+1. [ ] The **true data distribution**, q(x), is reality’s hidden voice. 
+2. [ ] **Our model**, p(x|w), tries to mimic it, where w are parameters in W a huge d-dimentional space. 
+3. [ ] Before data, we have a **prior φ(w)**, often favoring simpler models. 
+4. [ ] After seeing **data D**, Bayes’ rule combines **prior** and **likelihood** into the **posterior** — our updated belief about good parameters. 
+5. [ ] **Learning is** the move from broad uncertainty to focused, data-informed belief.
 
 
 
